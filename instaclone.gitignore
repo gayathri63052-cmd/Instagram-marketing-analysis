@@ -1,0 +1,7 @@
+_pycache_/
+*.py[cod]
+venv/
+.env
+.vscode/
+db.sqlite3
+media/
